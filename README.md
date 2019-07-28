@@ -31,6 +31,8 @@ https://drive.google.com/open?id=1unpcDqxaXyOIadYxc8sFOPVM6e_8raC_T-u9zDImKAM
 https://docs.google.com/document/d/1k3adVwQTdfMFHXV6zVnjBpr0JNhHNYEeQkwmIu_sNMM/edit?usp=sharing
 ### Editrial Policy(ja)
 https://docs.google.com/document/d/1B8x4FBhIcegRZhIvRM4nuYdZ4Ylvw7WdUrCy-uLFXok/edit?usp=sharing
+### Editrial Structure(ja)
+https://docs.google.com/document/d/1dzdMASLzGLK92eotW09aQr4AP1OBO8_OvsyxhyngiaE/edit?usp=sharing
 
 ## Founder
 ### Yosih's Profile(ja)
