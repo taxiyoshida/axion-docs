@@ -6,7 +6,7 @@ https://sketch.cloud/s/3lA8d/a/WaEnMg/play
 
 # Product
 ### Product dev plan(en)
-https://drive.google.com/open?id=10Hy6K8iaGinx56mtpcm38UeBNIeJkDfu
+https://drive.google.com/open?id=139lliD1ZOlxJyBjkKmA3F2mwWPXzmLgI
 ### Game plan(en)
 https://docs.google.com/presentation/d/1YkC-yb4pF_JEsC23VCxFTfE3F4k7qcJQLWLza5HB3CI/edit?usp=sharing
 
@@ -19,6 +19,14 @@ https://drive.google.com/open?id=1fXg0OltyxQCwV7L5qGW6eKW0Bx9xp8wd
 https://docs.google.com/document/d/17MtkzEWcUb9orTwWCLCH47cMCplmR534T2gqRAemirQ/edit?usp=sharing
 
 # Organization
+### Vision(en)
+https://bit.ly/2K8R5cN
+### Vision(ja)
+https://www.axion.zone/vision/
+### Mission(en)
+https://bit.ly/2YwQc6W
+### Mission(ja)
+https://bit.ly/313OkQN
 ### 9 principles (en)
 https://docs.google.com/document/d/1cOneexG75s76jKbDE1iwI9CJi9V5OhkoD8qhhTt3x3g/edit?usp=sharing
 ### 9 principles (ja)
