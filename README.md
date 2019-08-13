@@ -46,6 +46,14 @@ https://docs.google.com/document/d/1dzdMASLzGLK92eotW09aQr4AP1OBO8_OvsyxhyngiaE/
 ### Contents Supply Chain(ja)
 https://docs.google.com/document/d/1in9-dcsECvevOTwhOVfrjKVP-cyMkgz8MwdjQBbnGTQ/edit?usp=sharing
 
+# Policy
+### why we named us axion(ja)
+https://www.axion.zone/why-we-named-us-axion/
+### Editorial Policy
+https://www.axion.zone/editorial-policy/
+### Private Policy
+https://www.axion.zone/privacy-policy/
+
 # Founder
 ### Yoshi's Profile(ja)
 https://taxiyoshida.github.io/profile/
